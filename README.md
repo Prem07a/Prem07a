@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*g4664eiXZPnUH-hgeW_eqw.jpeg)
 <h1 align="center">Hi 👋, I'm Prem Gaikwad</h1>
-<h3 align="center">I am an AIML Developer and an Data Analyst from India</h3>
+<h3 align="center">I am an AIML Developer and a Data Analyst from India</h3>
 <img align="right" alt="robot" width="400" src = "https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem07a&label=Profile%20views&color=0e75b6&style=flat" alt="prem07a" /> </p>
 
