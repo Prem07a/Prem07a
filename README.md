@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem07a&label=Profile%20views&color=0e75b6&style=flat" alt="prem07a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prem07a" alt="prem07a" /></a> </p>
-<img align="right" alt="robot" width="400" src = "https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif">
+<img align="right" alt="robot" width="400" src = "https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
 - 🌱 I’m currently learning **CNN with Tensorflow & PyTorch**
 
