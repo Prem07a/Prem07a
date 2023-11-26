@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prem07a" alt="prem07a" /></a> </p>
 
-<img align="right" alt="404" width="400" src = "ai.gif">
+<img align="right" alt="404" width="400" src = "ai-unscreen.gif">
 
 - 🌱 I’m currently learning **CNN with Tensorflow & PyTorch**
 
