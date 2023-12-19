@@ -7,7 +7,7 @@
 
 <img align="right" alt="404" width="400" src = "ai-unscreen.gif">
 
-- 🌱 I’m currently learning **CNN with Tensorflow & PyTorch**
+- 🌱 I’m currently working on Reaserach Related to *AI in Finance*
 
 - 💬 Ask me about **AI/ML and Data Science**
 
